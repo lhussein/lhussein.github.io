@@ -1,0 +1,23 @@
+
+body {
+    background-color: #cc4a28ff;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    }
+
+a {
+text-decoration: none;
+}
+
+text {
+border: 1px solid #cfe2f3;
+font-family; Oswald, sans-serif;
+line-height: 3em;
+text-transform: uppercase;
+text-align: center;
+color: #282828;
+left: 0px;
+width: 300px;
+padding: 10px;
+}
+
